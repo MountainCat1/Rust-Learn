@@ -1,0 +1,3 @@
+# Learn rust :D
+
+Simple repo with all code put up together while learning this freak of a language...
